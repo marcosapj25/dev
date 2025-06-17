@@ -1,0 +1,17 @@
+{
+  "name": "casa",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "node app"
+  },
+  "author": "keyler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "colors": "^1.4.0",
+    "moment": "^2.30.1"
+  }
+}
